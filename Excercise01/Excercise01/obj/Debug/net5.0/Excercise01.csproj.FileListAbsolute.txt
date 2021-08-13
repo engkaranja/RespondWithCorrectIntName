@@ -1,0 +1,12 @@
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\bin\Debug\net5.0\Excercise01.deps.json
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\bin\Debug\net5.0\Excercise01.dll
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\bin\Debug\net5.0\ref\Excercise01.dll
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\bin\Debug\net5.0\Excercise01.pdb
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.csproj.AssemblyReference.cache
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.GeneratedMSBuildEditorConfig.editorconfig
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.AssemblyInfoInputs.cache
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.AssemblyInfo.cs
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.csproj.CoreCompileInputs.cache
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.dll
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\ref\Excercise01.dll
+E:\pdocs\TechnoBrain\RespondWithCorrectIntName\Excercise01\Excercise01\obj\Debug\net5.0\Excercise01.pdb
